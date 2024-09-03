@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my GitHub! 🚀<br><br>I’m a tech enthusiast diving deep into the world of AI and machine learning. <br><br>With a passion for music 🎵, anime 🎌, and gaming 🎮, I’m constantly exploring the intersection of technology and creativity.<br><br>I’m on a mission to push the boundaries of what AI can achieve, working on cutting-edge technologies that could one day contribute to sentient ASI 🤖💡.<br><br>Feel free to explore my work and connect if you’re as excited about the future of AI as I am. <br><br>Let’s build something amazing together! 🌐
+Welcome to my GitHub! 🚀<br><br>I’m a tech enthusiast diving deep into the world of AI and machine learning. <br><br>With a passion for music 🎵, anime 🎌, and gaming 🎮, I’m constantly exploring the intersection of technology and creativity.<br><br>I’m on a mission to push the boundaries of what AI can achieve, working on cutting-edge technologies that will one day contribute to sentient ASI 🤖💡.<br><br>Feel free to explore my work and connect if you’re as excited about the future of AI as I am. <br><br>Let’s build something amazing together! 🌐
 
 
 ## 🌐 Socials:
