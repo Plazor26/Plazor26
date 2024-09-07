@@ -2,6 +2,7 @@
 Welcome to my GitHub! 🚀<br><br>I’m a tech enthusiast diving deep into the world of AI and machine learning. <br><br>With a passion for music 🎵, anime 🎌, and gaming 🎮, I’m constantly exploring the intersection of technology and creativity.<br><br>I’m on a mission to push the boundaries of what AI can achieve, working on cutting-edge technologies that will one day contribute to sentient ASI 🤖💡.<br><br>Feel free to explore my work and connect if you’re as excited about the future of AI as I am. <br><br>Let’s build something amazing together! 🌐
 
 
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/AGTbE6sp) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/DragonPrincePlazor) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/DragonPrincePlazor) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@plazor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jai-verma-9639511a9/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@plazor) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Plazor13/) 
 
