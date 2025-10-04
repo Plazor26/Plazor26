@@ -1,71 +1,141 @@
-# 💫 About Me:
-Hello there! Welcome to my GitHub. 🚀
+<!-- HEADER -->
+<h1 align="center">Plazor</h1>
+<h3 align="center">AI & SaaS Product Builder • Applied ML • Local-first Tools • Python / TypeScript</h3>
 
-I'm **Plazor**, a technology consultant with a deep passion for **AI** and **machine learning**.  
-When I'm not crunching code, you'll find me exploring new anime 🎌, playing games 🎮, or vibing to music 🎵.  
-
-My current focus is on pushing the boundaries of AI—experimenting with cutting-edge **LLMs**, **computer vision**, and **deep learning** frameworks that might someday contribute to sentient ASI. 🤖💡  
-
-Feel free to explore my repositories, and let’s connect if you’re as excited about the future of AI as I am!  
-**Together, we can build something amazing.** 🌐🎉
-
----
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/AGTbE6sp)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/DragonPrincePlazor)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/DragonPrincePlazor)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@plazor)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jai-verma-9639511a9/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@plazor)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Plazor13/)
+<p align="center">
+  <a href="https://linkedin.com/in/jai-verma-9639511a9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://youtube.com/@plazor"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+  <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+  <a href="https://medium.com/@plazor"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"/></a>
+  <a href="https://twitch.tv/DragonPrincePlazor"><img src="https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white"/></a>
+</p>
 
 ---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
-![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+## About Me
+I’m **Plazor**, a builder obsessed with AI, product engineering, and local-first technology.  
+I specialize in turning ambitious ideas into polished, working products that ship fast and run lean.
+
+- End-to-end product engineering: UX → APIs → ML → deployment  
+- Focus areas: LLM orchestration, voice systems, computer vision, and creative tooling  
+- Strong bias toward privacy, local-first solutions, and efficient infrastructure
+
+> “Don’t wait for the future. Build it.”
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Plazor26&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Plazor26&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Plazor26&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## Tech Stack
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Plazor26&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Plazor26&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,cpp,pytorch,tensorflow,opencv,fastapi,flask,nextjs,react,nodejs,html,css,js,docker,git,linux,ffmpeg,electron,tauri&theme=dark" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Plazor26&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Halo</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Plazor26/halo/main/demo.gif" alt="Halo Demo" width="90%"/>
+</p>
+<p>
+A local voice assistant for Windows: wake word detection, Whisper transcription, on-device LLMs via Ollama, and task automation.  
+• Offline wake word engine  
+• Local STT and LLM processing  
+• Hotkey integrations and desktop control  
+• Extensible modular action system
+</p>
+<p align="center">
+<a href="https://github.com/Plazor26/halo"><img src="https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+</td>
+
+<td width="50%">
+<h3 align="center">Perch Player</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Plazor26/perch-player/main/demo.gif" alt="Perch Player Demo" width="90%"/>
+</p>
+<p>
+A desktop media player for personal libraries with a modern streaming-service interface.  
+• Fast metadata scanning  
+• Next.js + Tauri frontend  
+• Keyboard navigation and search  
+• Local playback using ffmpeg
+</p>
+<p align="center">
+<a href="https://github.com/Plazor26/perch-player"><img src="https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Steam Picker</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Plazor26/steam-picker/main/demo.png" alt="Steam Picker Demo" width="90%"/>
+</p>
+<p>
+A client-side game recommender that uses your Steam profile to suggest what to play next.  
+Zero backend. Fully browser-based.
+</p>
+<p align="center">
+<a href="https://github.com/Plazor26/steam-picker"><img src="https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+</td>
+
+<td width="50%">
+<h3 align="center">AI Game Prototype</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Plazor26/ai-game-prototype/main/demo.gif" alt="AI Game Prototype Demo" width="90%"/>
+</p>
+<p>
+Unity and Unreal experiments with local voice models and reinforcement-style agents for narrative control and in-game interaction.
+</p>
+<p align="center">
+<a href="https://github.com/Plazor26/ai-game-prototype"><img src="https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Plazor26&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Plazor26&theme=tokyonight&hide_border=false" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plazor26&layout=compact&theme=tokyonight&hide_border=false"/>
+</p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Plazor26&theme=radical&no-bg=true&margin-w=8"/>
+</p>
+
+---
+
+## Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Plazor26&label=Profile%20Views&color=9&icon=0&pretty=true" />
+  </a>
+</p>
