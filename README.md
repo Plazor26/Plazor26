@@ -33,7 +33,9 @@ I believe in building systems that are both **technically robust** and **strateg
 ---
 
 ## Tech Stack
-<div align="center">
+<h3 align="center">Tech Stack</h3>
+
+<p align="center">
 
   <!-- Languages -->
   <div style="display:inline-block; text-align:center; margin:10px;">
@@ -137,7 +139,8 @@ I believe in building systems that are both **technically robust** and **strateg
     <sub>LangChain</sub>
   </div>
 
-</div>
+</p>
+
 
 
 ---
