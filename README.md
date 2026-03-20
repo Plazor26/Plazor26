@@ -33,60 +33,19 @@ I believe in building systems that are both **technically robust** and **strateg
 ---
 
 ## Tech Stack
-<h3 align="center">Tech Stack</h3>
 
 <p align="center">
-  <div style="display:inline-block;text-align:center;margin:10px;">
-    <img src="https://skillicons.dev/icons?i=python&theme=dark" width="42" height="42"/><br/><sub>Python</sub>
-  </div><div style="display:inline-block;text-align:center;margin:10px;">
-    <img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="42" height="42"/><br/><sub>TypeScript</sub>
-  </div><div style="display:inline-block;text-align:center;margin:10px;">
-    <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="42" height="42"/><br/><sub>JavaScript</sub>
-  </div><div style="display:inline-block;text-align:center;margin:10px;">
-    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="42" height="42"/><br/><sub>C++</sub>
-  </div><div style="display:inline-block;text-align:center;margin:10px;">
-    <img src="https://skillicons.dev/icons?i=html&theme=dark" width="42" height="42"/><br/><sub>HTML</sub>
-  </div><div style="display:inline-block;text-align:center;margin:10px;">
-    <img src="https://skillicons.dev/icons?i=css&theme=dark" width="42" height="42"/><br/><sub>CSS</sub>
-  </div><div style="display:inline-block;text-align:center;margin:10px;">
-    <img src="https://skillicons.dev/icons?i=react&theme=dark" width="42" height="42"/><br/><sub>React</sub>
-  </div><div style="display:inline-block;text-align:center;margin:10px;">
-    <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="42" height="42"/><br/><sub>Next.js</sub>
-  </div><div style="display:inline-block;text-align:center;margin:10px;">
-    <img src="https://skillicons.dev/icons?i=tailwindcss&theme=dark" width="42" height="42"/><br/><sub>Tailwind</sub>
-  </div><div style="display:inline-block;text-align:center;margin:10px;">
-    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="42" height="42"/><br/><sub>Node.js</sub>
-  </div><div style="display:inline-block;text-align:center;margin:10px;">
-    <img src="https://skillicons.dev/icons?i=electron&theme=dark" width="42" height="42"/><br/><sub>Electron</sub>
-  </div><div style="display:inline-block;text-align:center;margin:10px;">
-    <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="42" height="42"/><br/><sub>FastAPI</sub>
-  </div><div style="display:inline-block;text-align:center;margin:10px;">
-    <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="42" height="42"/><br/><sub>Postgres</sub>
-  </div><div style="display:inline-block;text-align:center;margin:10px;">
-    <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="42" height="42"/><br/><sub>Redis</sub>
-  </div><div style="display:inline-block;text-align:center;margin:10px;">
-    <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="42" height="42"/><br/><sub>Docker</sub>
-  </div><div style="display:inline-block;text-align:center;margin:10px;">
-    <img src="https://skillicons.dev/icons?i=git&theme=dark" width="42" height="42"/><br/><sub>Git</sub>
-  </div><div style="display:inline-block;text-align:center;margin:10px;">
-    <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="42" height="42"/><br/><sub>Linux</sub>
-  </div><div style="display:inline-block;text-align:center;margin:10px;">
-    <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="42" height="42"/><br/><sub>GCP</sub>
-  </div><div style="display:inline-block;text-align:center;margin:10px;">
-    <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="42" height="42"/><br/><sub>PyTorch</sub>
-  </div><div style="display:inline-block;text-align:center;margin:10px;">
-    <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="42" height="42"/><br/><sub>TensorFlow</sub>
-  </div><div style="display:inline-block;text-align:center;margin:10px;">
-    <img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="42" height="42"/><br/><sub>OpenCV</sub>
-  </div><div style="display:inline-block;text-align:center;margin:10px;">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" width="42" height="42" style="background:#2E3440;padding:6px;border-radius:8px;"/><br/><sub>scikit-learn</sub>
-  </div><div style="display:inline-block;text-align:center;margin:10px;">
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="42" height="42" style="background:#2E3440;padding:6px;border-radius:8px;"/><br/><sub>HuggingFace</sub>
-  </div><div style="display:inline-block;text-align:center;margin:10px;">
-    <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo.png" width="42" height="42" style="background:#2E3440;padding:6px;border-radius:8px;"/><br/><sub>LangChain</sub>
-  </div>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,html,css&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,nodejs,electron,fastapi&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,git,linux,gcp&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" /><br/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
+</p>
 
 
 
