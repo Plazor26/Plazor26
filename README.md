@@ -56,9 +56,6 @@ I believe in building systems that are both **technically robust** and **strateg
 <tr>
 <td width="50%">
 <h3 align="center">TapoSync</h3>
-<p align="center">
-<img src="https://raw.githubusercontent.com/Plazor26/TapoSync/main/assets/demo.gif" alt="TapoSync Demo" width="90%"/>
-</p>
 <p>
 TapoSync turns Tapo smart bulbs and light strips into real-time screen-reactive ambient lighting.  
 It mirrors dominant on-screen colors to your lights with low latency, runs entirely on your local network, and sends zero data to the cloud.
