@@ -77,9 +77,6 @@ It mirrors dominant on-screen colors to your lights with low latency, runs entir
 
 <td width="50%">
 <h3 align="center">Steam Picker</h3>
-<p align="center">
-<img src="https://raw.githubusercontent.com/Plazor26/steam-picker/main/demo.png" alt="Steam Picker Demo" width="90%"/>
-</p>
 <p>
 Steam Picker is a client-side recommendation engine that helps users rediscover overlooked games in their Steam libraries.  
 It leverages the Steam Web API, real-time playtime analysis, and lightweight AI matching logic — all running fully in the browser with zero backend.
