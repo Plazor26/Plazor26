@@ -70,6 +70,7 @@ It mirrors dominant on-screen colors to your lights with low latency, runs entir
   <li>Fully local — no telemetry, no cloud, no account required</li>
 </ul>
 <p align="center">
+<a href="https://taposync.plazor.xyz"><img src="https://img.shields.io/badge/Live_Site-000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://github.com/Plazor26/TapoSync"><img src="https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 </td>
@@ -83,7 +84,14 @@ It mirrors dominant on-screen colors to your lights with low latency, runs entir
 Steam Picker is a client-side recommendation engine that helps users rediscover overlooked games in their Steam libraries.  
 It leverages the Steam Web API, real-time playtime analysis, and lightweight AI matching logic — all running fully in the browser with zero backend.
 </p>
+<ul>
+  <li>AI-powered game matching based on playtime and preferences</li>
+  <li>Real-time Steam Web API integration</li>
+  <li>Fully client-side — zero backend, runs entirely in-browser</li>
+  <li>Instant recommendations with no account or login needed</li>
+</ul>
 <p align="center">
+<a href="https://steampicker.plazor.xyz"><img src="https://img.shields.io/badge/Live_Site-000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://github.com/Plazor26/steam-picker"><img src="https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 </td>
